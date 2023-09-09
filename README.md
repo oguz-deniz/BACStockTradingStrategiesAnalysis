@@ -2,7 +2,7 @@
 
 ## Description:
 
-This repository contains the results and code for a comprehensive analysis of various trading strategies applied to Bank of America Corporation (BAC) stock. The analysis covers the period from January 1, 2005, to December 31, 2022, and uses an initial investment of $10,000.
+This repository contains the results and code for a comprehensive analysis of various trading strategies applied to Bank of America Corporation (BAC) stock. The analysis covers the period from January 1, 2005, to December 31, 2022, and uses an initial investment of $10,000. The time series data is obtained from https://finance.yahoo.com/ .
 
 ## Key Strategies Investigated:
 
